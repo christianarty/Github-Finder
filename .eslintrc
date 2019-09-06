@@ -1,0 +1,10 @@
+{
+  "extends": ["react-app", "plugin:prettier/recommended"],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2018
+  }
+}
