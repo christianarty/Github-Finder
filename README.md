@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Github Finder
 
 ## About
-This application finds github users, using the [Github API](https://api.github.com)
+This application finds github users, using the [Github API](https://api.github.com). Once a user is found, you can get more information about the user, using the custom-made User pages created with React. 
 
 ## Technologies
 * HTML
